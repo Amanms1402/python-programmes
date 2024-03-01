@@ -7,4 +7,3 @@ numbers_list= list(range(start,stop,step))
 
 for num in numbers_list:
     print(num)
-    
